@@ -14,7 +14,7 @@ g.setColor(Color.white);
 g.fillRect(0,0,d.width,d.height);
 g.setColor(Color.black);
 g.setFont(f);
-drawCenteredString("Нурмухаметов Дамир Рустемович"
+drawCenteredString("16130567"
 		+ "16130569"
 		+ "16130163"
 		+ "16130029", d.width, d.height, g);
